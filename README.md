@@ -1,8 +1,8 @@
 ﻿# SimpleBrickBreakerGame
 
-A simple brick breaker game I created in Java to reinforce my skills in visual creation and OOP (Object-Oriented Programming).
+A simple brick breaker game I created in Java to enhance my graphic development and OOP (Object-Oriented Programming) skills.
 
-Javada görsel üretme ve OOP yetimi pekiştirmek için yaptığım basit bir tuğla kırma oyunu.
+Javada grafik geliştirme ve OOP yetimi pekiştirmek için yaptığım basit bir tuğla kırma oyunu.
 
 <img src="https://github.com/user-attachments/assets/4781197e-0dcd-4a0b-8080-2340cb070d20" alt="a" width="400"/>
 
